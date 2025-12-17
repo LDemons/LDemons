@@ -1,6 +1,6 @@
-## [LDemons.jar]
-
 <div align="center">
+
+<img src="./images/LDemons.png" alt="LDemons" width="400">
 
 # Muy buenas 
 
@@ -16,9 +16,7 @@
 
 ### 🎵 Escuchando Ahora en Spotify 🎵
 
-<a href="https://open.spotify.com/user/Demons">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Demons&count=5&unique=false" alt="Reproducido recientemente en Spotify" />
-</a>
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/Demons)
 
 ---
 
