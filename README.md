@@ -2,9 +2,7 @@
 
 <img src="./images/LDemons.png" alt="LDemons" width="400">
 
-# Muy buenas 
-
-### Mi Gráfico de Contribuciones en GitHub
+### Gráfico de Contribuciones en GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LDemons/LDemons/output/pacman-contribution-graph-dark.svg">
